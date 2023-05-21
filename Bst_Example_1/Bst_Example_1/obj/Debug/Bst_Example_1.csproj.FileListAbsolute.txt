@@ -1,0 +1,7 @@
+C:\Users\RayanGate\source\repos\Bst_Example_1\Bst_Example_1\bin\Debug\Bst_Example_1.exe.config
+C:\Users\RayanGate\source\repos\Bst_Example_1\Bst_Example_1\bin\Debug\Bst_Example_1.exe
+C:\Users\RayanGate\source\repos\Bst_Example_1\Bst_Example_1\bin\Debug\Bst_Example_1.pdb
+C:\Users\RayanGate\source\repos\Bst_Example_1\Bst_Example_1\obj\Debug\Bst_Example_1.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\Bst_Example_1\Bst_Example_1\obj\Debug\Bst_Example_1.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\Bst_Example_1\Bst_Example_1\obj\Debug\Bst_Example_1.exe
+C:\Users\RayanGate\source\repos\Bst_Example_1\Bst_Example_1\obj\Debug\Bst_Example_1.pdb
